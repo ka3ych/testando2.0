@@ -5,3 +5,9 @@ a {
     text-decoration: underline;
     color: burlywood;
 }
+button {
+    background-color: aquamarine;
+    border: none;
+    border-radius: 50%;
+    text-align: center;
+}

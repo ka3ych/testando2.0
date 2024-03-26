@@ -49,7 +49,7 @@ git push <link> <branch_name>
 [Google](https://www.google.com/)
 Arquivo [*style.css*](/addReadme/style.css) da página
 
-![Desenho de um gatinho pegado do google images](https://www.google.com/url?sa=i&url=https%3A%2F%2Fthirstymag.com%2FOs-Gatos-dos-Desenhos-293530.html&psig=AOvVaw1EyQqD8yYYQwdUeE6ErsmS&ust=1711543445719000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCMiDqK36kYUDFQAAAAAdAAAAABAP)
+![Desenho de um gatinho pegado do google images](/addReadme/assets/imgs/pngtree-cat-cartoon-cute-sticker-kitty-png-image_6635430.png)
 
 ## Listas
 - karina

@@ -47,9 +47,9 @@ git push <link> <branch_name>
 
 ## Links
 [Google](https://www.google.com/)
-Arquivo [*style.css*](/addReadme/style.css) da página
+Arquivo [*style.css*](style.css) da página
 
-![Desenho de um gatinho pegado do google images](/addReadme/assets/imgs/pngtree-cat-cartoon-cute-sticker-kitty-png-image_6635430.png)
+![Desenho de um gatinho pegado do google images](assets/imgs/pngtree-cat-cartoon-cute-sticker-kitty-png-image_6635430.png)
 
 ## Listas
 - karina

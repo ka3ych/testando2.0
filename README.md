@@ -75,9 +75,9 @@ Arquivo [*style.css*](/addReadme/style.css) da página
 - [ ] item 2
 - [ ] item 3
 
-@kaych @prestigioABC
+@github/kaych @github/prestigioABC
 
-@kaych :+1: This PR looks great - it's ready to merge" :shipit:
+@github/kaych :+1: This PR looks great - it's ready to merge" :shipit:
 
 Nota 1 [^1]
 
